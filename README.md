@@ -1,6 +1,5 @@
 <h1 align='center'> Hi there, I'm Eimy ✨</h1>
 
-- 🔭 I’m currently working on Artekium Technologies
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/eimy-blanco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - ⚡ Fun fact: I'm also an Illustrator for children books and stationary!
 
